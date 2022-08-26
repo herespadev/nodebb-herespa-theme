@@ -177,18 +177,11 @@
 				</ul>
 				<!-- ELSE -->
 				<ul id="logged-out-menu" class="nav navbar-nav navbar-right">
-					<!-- IF allowRegistration -->
+					<!-- Go Back -->
 					<li>
-						<a href="{relative_path}/register">
+						<a href="https://www.herespa.com/business">
 							<i class="fa fa-pencil fa-fw hidden-sm hidden-md hidden-lg"></i>
-							<span>[[global:register]]</span>
-						</a>
-					</li>
-					<!-- ENDIF allowRegistration -->
-					<li>
-						<a href="{relative_path}/login">
-							<i class="fa fa-sign-in fa-fw hidden-sm hidden-md hidden-lg"></i>
-							<span>[[global:login]]</span>
+							<span>Back to Dashboard</span>
 						</a>
 					</li>
 				</ul>
@@ -260,10 +253,11 @@
 
 				<!-- ELSE -->
 				<ul class="nav navbar-nav navbar-right">
+					<!-- Go Back -->
 					<li>
-						<a href="{relative_path}/login">
-							<i class="fa fa-sign-in fa-fw hidden-sm hidden-md hidden-lg"></i>
-							<span>[[global:login]]</span>
+						<a href="https://www.herespa.com/business">
+							<i class="fa fa-pencil fa-fw hidden-sm hidden-md hidden-lg"></i>
+							<span>Back to Dashboard</span>
 						</a>
 					</li>
 				</ul>
