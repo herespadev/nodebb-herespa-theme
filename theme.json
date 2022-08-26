@@ -1,7 +1,7 @@
 {
-    "id": "nodebb-herespa-theme",
+    "id": "nodebb-theme-herespa",
     "name": "Persona_HereSpa",
     "description": "The default theme for NodeBB. Uses a standard approach to forum design.",
-    "url": "https://github.com/herespadev/nodebb-herespa-theme",
+    "url": "https://github.com/herespadev/nodebb-theme-herespa",
     "screenshot": "screenshot.png"
 }
