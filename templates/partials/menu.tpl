@@ -252,14 +252,6 @@
 				</ul>
 
 				<!-- ELSE -->
-				<ul class="nav navbar-nav navbar-right">
-					<!-- Go Back -->
-					<li>
-						<a href="https://www.herespa.com/business">
-							<i class="fa fa-pencil fa-fw hidden-sm hidden-md hidden-lg"></i>
-							<span>Back to Dashboard</span>
-						</a>
-					</li>
-				</ul>
+			
 				<!-- ENDIF !maintenanceHeader -->
 			</div>
