@@ -225,6 +225,7 @@ $(document).ready(function () {
 				menu: document.getElementById('menu'),
 				width: 256,
 				margin: margin,
+				touch: false,	
 				side: swapped ? 'right' : 'left',
 			});
 			$('#menu').removeClass('hidden');
